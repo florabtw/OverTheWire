@@ -6,3 +6,8 @@ prettier@^1.18.2:
   version "1.18.2"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.18.2.tgz#6823e7c5900017b4bd3acf46fe9ac4b4d7bda9ea"
   integrity sha512-OeHeMc0JhFE9idD4ZdtNibzY0+TPHSpSSb9h8FqtP+YnoZZ1sl8Vc9b1sasjfymH3SonAF4QcA2+mzHPhMvIiw==
+
+slow@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/slow/-/slow-1.0.1.tgz#1ef51498c7c9676b8851697751b4af2b55659376"
+  integrity sha512-1oIvnFxSm5SVY8h9StiI+bRLZcXlDu/zZ5g6zVu6FL+IG7ER1xG+SHLrv+qHM00pTAYr/aNZ2OAkD4UZb+vcxw==
